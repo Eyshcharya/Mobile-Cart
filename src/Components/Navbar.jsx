@@ -9,7 +9,7 @@ const Navbar = () => {
       </div>
       <h3>Phone Shop</h3>
       <div>
-        <a href='../../Cart.html'>
+        <a href='../../index.html'>
           <img
             className='cart-icon'
             src='/icons/fast-cart.png'
